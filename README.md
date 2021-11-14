@@ -14,13 +14,12 @@ https://goodcalculators.com/sig-fig-significant-figures-calculator/
 
 Here is the full list of operators and functions supported in Sig Fig Calculator: 
 
-Arithmetic operators: addition ( + ), subtraction ( - ), division ( / or ÷ ), multiplication ( * or × ) and exponent ( ^ )<br>
-Group symbols: ( )<br>
-Functions: log n, ln n<br>
-Constants: pi, e<br>
-Exact quantities: #<br>
-<br><br>
-
+Arithmetic operators: addition ( + ), subtraction ( - ), division ( / or ÷ ), multiplication ( * or × ) and exponent ( ^ )<br><br>
+Group symbols: ( )<br><br>
+Functions: log n, ln n<br><br>
+Constants: pi, e<br><br>
+Exact quantities: #<br><br>
+<br>
 
 <b>License:</b>
 
