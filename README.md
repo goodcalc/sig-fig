@@ -26,7 +26,7 @@ Licensed under the Apache License, Version 2.0 (the "License");
    
 You may not use this file except in compliance with the License.
    
-You can change the html and css to make the calculator fit into the style of your site.
+You can change the HTML and CSS to make the calculator fit into the style of your site.
    
 Do not remove the copyright "Good Calculators: Significant Figures Calculator"
    
