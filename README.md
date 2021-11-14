@@ -1,2 +1,2 @@
-# sig-fig
+# sig fig calculator
 Significant Figures Calculator
