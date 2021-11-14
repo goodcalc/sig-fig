@@ -28,7 +28,7 @@ You may not use this file except in compliance with the License.
    
 You can change the HTML and CSS to make the calculator fit into the style of your site.
    
-Do not remove the copyright "<a rel="follow" href="https://goodcalculators.com/sig-fig-significant-figures-calculator/">Good Calculators: Significant Figures Calculator</a>"
+Do not remove the copyright "<b>Good Calculators: Significant Figures Calculator</b>"
    
 Copyright belongs to goodcalculators.com
 
