@@ -1,6 +1,6 @@
 # sig fig calculator
 
-This code provides the framework for Significant Figures Calculator, written in Javascript.
+This code provides the framework for Significant Figures Calculator, written in Javascript and HTML.
 
 You can find a detailed description of this calculator and answers to frequently asked questions at:
 
