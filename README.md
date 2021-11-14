@@ -10,7 +10,7 @@ https://goodcalculators.com
 
 or at the original post: 
 
-https://goodcalculators.com/sig-fig-significant-figures-calculator/
+https://goodcalculators.com/sig-fig-significant-figures-calculator/ <br><br>
 
 Here is the full list of operators and functions supported in Sig Fig Calculator: 
 
@@ -20,7 +20,6 @@ Functions: log n, ln n<br><br>
 Constants: pi, e<br><br>
 Exact quantities: #<br><br>
 <br>
-
 <b>License:</b>
 
 Licensed under the Apache License, Version 2.0 (the "License");
